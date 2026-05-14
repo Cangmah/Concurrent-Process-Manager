@@ -1,4 +1,4 @@
-# Semaphore Bake Off
+# Concurrent Process Manager
 
 Multithreaded bakery simulation in C using POSIX semaphores for shared resource synchronization.
 
